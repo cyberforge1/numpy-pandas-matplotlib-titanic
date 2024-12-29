@@ -12,4 +12,3 @@
 
 <img src="images/diagram-5.png" alt="Diagram 5" width="500"/>
 
-<img src="images/diagram-6.png" alt="Diagram 6" width="500"/>
