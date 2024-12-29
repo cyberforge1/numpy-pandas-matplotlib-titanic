@@ -1,6 +1,6 @@
 # Numpy Pandas Matplotlib Titanic
 
-# Diagrams
+## Diagrams
 
 ![Diagram 1](images/diagram-1.png)
 
