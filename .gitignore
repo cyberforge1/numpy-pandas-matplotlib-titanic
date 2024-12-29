@@ -1,2 +1,8 @@
-venv
-.env
+# Ignore virtual environment
+venv/
+*.pyc
+__pycache__/
+
+# Ignore Kaggle credentials
+.kaggle/
+kaggle.json
