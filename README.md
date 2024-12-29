@@ -2,14 +2,14 @@
 
 ## Diagrams
 
-![Diagram 1](images/diagram-1.png)
+<img src="images/diagram-1.png" alt="Diagram 1" width="500"/>
 
-![Diagram 2](images/diagram-2.png)
+<img src="images/diagram-2.png" alt="Diagram 2" width="500"/>
 
-![Diagram 3](images/diagram-3.png)
+<img src="images/diagram-3.png" alt="Diagram 3" width="500"/>
 
-![Diagram 4](images/diagram-4.png)
+<img src="images/diagram-4.png" alt="Diagram 4" width="500"/>
 
-![Diagram 5](images/diagram-5.png)
+<img src="images/diagram-5.png" alt="Diagram 5" width="500"/>
 
-![Diagram 6](images/diagram-6.png)
+<img src="images/diagram-6.png" alt="Diagram 6" width="500"/>
